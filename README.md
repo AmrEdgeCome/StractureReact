@@ -1,0 +1,2 @@
+# StractureReact
+Shared react structure
